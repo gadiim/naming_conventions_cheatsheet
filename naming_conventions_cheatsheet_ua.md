@@ -16,4 +16,4 @@
 - **kebab-case**: лише для CSS і назв файлів у веброзробці.
 - **snake_case**: основний стиль у Python, базах даних, конфігураціях.
 
-# НАЗАД
+## [🔙](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/README.md)
