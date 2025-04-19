@@ -17,4 +17,4 @@
 - **snake_case**: Main style in Python, databases, and configurations.
 
 
-## 🔙 [Back](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/README.md)
+## [🔙](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/README.md)
