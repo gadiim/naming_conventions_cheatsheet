@@ -7,5 +7,14 @@
 
 # Naming conventions cheatsheet
 
+## 🌐 Language versions:
+
  * [EN](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/naming_conventions_cheatsheet_en.md)
  * [UA](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/naming_conventions_cheatsheet_ua.md)
+- [🇬🇧 EN](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/naming_conventions_cheatsheet_en.md)
+- [🇺🇦 UA](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/naming_conventions_cheatsheet_ua.md)
+
+---
+
+![Watchers](https://img.shields.io/github/watchers/gadiim/gadiim.svg?style=flat-square)
+
