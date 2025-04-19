@@ -7,5 +7,5 @@
 
 # Naming conventions cheatsheet
 
-[EN](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/naming_conventions_cheatsheet_en.md)
-[UA](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/naming_conventions_cheatsheet_ua.md)
+ * [EN](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/naming_conventions_cheatsheet_en.md)
+ * [UA](https://github.com/gadiim/naming_conventions_cheatsheet/blob/main/naming_conventions_cheatsheet_ua.md)
